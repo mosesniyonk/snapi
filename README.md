@@ -15,7 +15,7 @@ Snapi is a screenshot beautifier tool that helps you turn plain screenshots into
 ### Prerequisites
 
 - Node.js (LTS recommended)
-- npm, yarn, or pnpm
+- npm, yarn, bun or pnpm
 
 ### Installation
 
@@ -54,7 +54,3 @@ pnpm run preview
 2. Pick a style (background, spacing, border radius, shadow).
 3. Adjust the layout until it looks perfect.
 4. Export and share.
-
-## 📄 License
-
-Add your preferred license here (for example, MIT).
