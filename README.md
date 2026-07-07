@@ -25,13 +25,13 @@ git clone https://github.com/mosesniyonk/snapi.git
 cd snapi
 
 # install dependencies
-npm install
+pnpm install
 ```
 
 ### Run locally
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 Then open your browser at the local URL shown in the terminal.
@@ -39,13 +39,13 @@ Then open your browser at the local URL shown in the terminal.
 ## 🛠️ Build
 
 ```bash
-npm run build
+pnpm run build
 ```
 
 ## 📦 Preview Production Build
 
 ```bash
-npm run preview
+pnpm run preview
 ```
 
 ## 💡 Usage
@@ -54,10 +54,6 @@ npm run preview
 2. Pick a style (background, spacing, border radius, shadow).
 3. Adjust the layout until it looks perfect.
 4. Export and share.
-
-## 🤝 Contributing
-
-Contributions are welcome. Open an issue to discuss improvements or submit a pull request.
 
 ## 📄 License
 
